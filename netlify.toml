@@ -1,0 +1,6 @@
+[build]
+  # This tells Netlify to run the script defined in your package.json
+  command = "npm run docs:build"
+  
+  # This tells Netlify where to find the final, finished HTML files
+  publish = "docs/.vitepress/dist"
