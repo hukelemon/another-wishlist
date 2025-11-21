@@ -1,6 +1,4 @@
 ---
-title: Another Wishlist
----
 
 # 🎁 Another Wishlist
 
