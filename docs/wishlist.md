@@ -5,6 +5,17 @@ description: A curated list of things I'd like to acquire.
 
 # 🎁 Another Wishlist
 
+If you don't buy it, I will. 
+
+***
+
+---
+title: Another Wishlist
+description: A curated list of things I'd like to acquire.
+---
+
+# 🎁 Another Wishlist
+
 Welcome! This is a simple list of items I'm currently wishing for, organized by general price and category. All links go directly to the product pages.
 
 ***
@@ -15,9 +26,9 @@ Welcome! This is a simple list of items I'm currently wishing for, organized by 
 | :--- | :--- | :--- | :--- |
 | **Nextool Pocket Tool E1** | EDC Multi-tool | ~$25 | [Nextool Store](https://nextoolstore.com/products/pocket-tool-e1) |
 | **Daily Belts "Daily Driver"** | Black Leather Belt | ~$40 | [Daily Belts](https://dailybelts.com/products/daily-driver) |
-| **Wallet Tracker Card** | Slim Rechargeable | ~$35 | [Amazon](https://www.amazon.com/dp/B0DPXMHCK6/) |
+| <mark>**Wallet Tracker Card**</mark> | Slim Rechargeable | ~$35 | [Amazon](https://www.amazon.com/dp/B0DPXMHCK6/) |
 | **Cat Water Fountain** | Stainless Steel Tray | ~$40 | [Amazon](https://www.amazon.com/dp/B0BSFB2D37/) |
-| **Rechargeable EDC Flashlight** | WUBEN E7, 1800 Lumen | ~$45 | [Amazon](https://www.amazon.com/WUBEN-E7-Rechargeable-Flashlight-Magnet/dp/B0CHB51JWG?th=1/) |
+| <mark>**Rechargeable EDC Flashlight**</mark> | WUBEN E7, 1800 Lumen | ~$45 | [Amazon](https://www.amazon.com/WUBEN-E7-Rechargeable-Flashlight-Magnet/dp/B0CHB51JWG?th=1/) |
 | **Heated Cat House** | Adjustable Heating Pad, Foldable | ~$48 | [Amazon](https://www.amazon.com/dp/B0FDKGPNK1/) |
 | **Milwaukee Utility Knife** | FASTBACK 6-in-1 model | ~$20 | [Amazon](https://www.amazon.com/dp/B09BNMWJH9) |
 
@@ -30,6 +41,7 @@ Welcome! This is a simple list of items I'm currently wishing for, organized by 
 | **Adidas Samba OG Shoes** | Size 12 | ~$100 | [Link to Adidas](https://www.adidas.com/us/samba-og-shoes/B75806.html?forceSelSize=12) |
 | **Old Navy Barn Jacket** | Insulated Canvas, XL | ~$80 | [Link to Old Navy](https://oldnavy.gap.com/browse/product.do?pid=8002880120004&vid=1&pcid=1031099&cid=1031099&nav=meganav%3AMen%3A%3A#pdp-page-content) |
 | **Hollister Quarter-Zip** | Boxy Logo, XL, Faded Navy | ~$65 | [Link to Hollister](https://www.hollisterco.com/shop/us/p/boxy-logo-quarter-zip-sweatshirt-61346374?categoryId=166245&faceout=model&seq=03&pagefm=navigation-grid&prodvm=navigation-grid) |
+| **Card Holder Wallet** | Pepper blue or Everglade | $135 | [Bellroy Link](https://bellroy.com/products/apex-slim-sleeve?color=pepper_blue&material=leather_rfid#slide-4) |
 
 ---
 
@@ -46,14 +58,28 @@ Welcome! This is a simple list of items I'm currently wishing for, organized by 
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+| **Fleece Shirt** | Tan or Black - XL | $20 | [Muji Link](https://www.muji.us/collections/fleece-series/products/recyclable-fleece-shirt-ab1pa25a?variant=45537827619006)
+| **Fleece Vest** | Tan or Gray - XL | $20 | [Muji Link](https://www.muji.us/collections/fleece-series/products/recyclable-fleece-vest-ab1ph25a?_pos=2&_fid=df7f55537&_ss=c)
 | **St. Louis Blues Crewneck** | Vintage Style | $25 | [Depop Link](https://www.depop.com/products/doodlebobaden-stlouis-blues-hockey-vintage-crewneck/) |
 | **Vintage Navy & Yellow Top** | St. Louis Themed | $45 | [Depop Link](https://www.depop.com/products/mrflowerpie-vintage-navy-and-yellow-st/) |
-| **90s Patagonia Fleece** | Winter Zip, Specific Listing | $70 | [Depop Link](https://www.depop.com/products/dren4-90s-patagonia-fleece-winter-zip/?isBoostedView=true) |
+| <mark>**90s Patagonia Fleece**</mark> | Winter Zip, Specific Listing | $70 | [Depop Link](https://www.depop.com/products/dren4-90s-patagonia-fleece-winter-zip/?isBoostedView=true) |
 | **Vintage North Face Jacket** | Green Color, Specific Listing | $45 | [Depop Link](https://www.depop.com/products/belowmid-vintage-the-north-face-green/) |
 | **Vintage Green Fleece Coat** | Zip Coat, General Style | $35 | [Depop Link](https://www.depop.com/products/mik_o_mart-fleece-zip-coat-green-vintage/) |
 | **Merrell Hydro Moc Cozy** | House Slipper Alternative | ~$45 | [Link to Merrell](https://www.merrell.com/US/en/hydro-moc-cozy/195020391150.html) |
 
 ---
+
+## 4Runner
+
+| Item | Details | Price | Link |
+| :--- | :--- | :--- | :--- |
+| **Navigation** | Wireless Apple Carplay | $300 | [Crutchfield link](https://www.crutchfield.com/p_158XAV3200/Sony-XAV-AX3200.html)
+| **required navigation part** | Wire Harness | $100 | [Crutchfield link](https://www.crutchfield.com/p_120TYTO01/Axxess-TYTO-01-Wiring-Interface.html)
+| **required navigation part** | Adapter | $75 | [Crutchfield link](https://www.crutchfield.com/p_120ASWC1/Axxess-ASWC-1-Steering-Wheel-Control-Adapter.html)
+| **required navigation part** | Steering Wheel Control | $15 | [Crutchfield link](https://www.crutchfield.com/p_120708114/Metra-70-8114-Steering-Wheel-Control-Harness.html)
+| **required navigation part** | Bracket | $15 | [Crutchfield link](https://www.crutchfield.com/p_120958202/Metra-95-8202-Dash-Kit-Black.html)
+| **required navigation part** | screws | $2 | [Crutchfield link](https://www.crutchfield.com/p_120ISOPK/Metra-ISOPK-Screw-Pack.html)
+| **Cupholder Upgrade** | Better fit | $30 | [Purchase link](https://www.trailrunnercustoms.com/products/p/toyota-4runner-cupholder)
 
 ## 💳 Gift Cards
 
