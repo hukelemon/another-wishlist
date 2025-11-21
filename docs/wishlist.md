@@ -7,10 +7,10 @@ description: Cool Stuff
 
 If you don't buy it, I will, punk.
 
-### Priority Legend
-* <span style="background-color:#d4edda; padding: 2px 5px; color: #155724;">**Priority 1**</span> (High)
-* <span style="background-color:#fff3cd; padding: 2px 5px; color: #856404;">**Priority 2**</span> (Medium)
-* <span style="background-color:#f8d7da; padding: 2px 5px; color: #721c24;">**Priority 3**</span> (Low)
+### Legend
+* <span style="background-color:#d4edda; padding: 2px 5px; color: #155724;">**Priority 1**</span> 
+* <span style="background-color:#fff3cd; padding: 2px 5px; color: #856404;">**Priority 2**</span> 
+* <span style="background-color:#f8d7da; padding: 2px 5px; color: #721c24;">**Priority 3**</span> 
 
 ***
 
