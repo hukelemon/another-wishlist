@@ -13,6 +13,7 @@ If you don't buy it, I will, punk.
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+|<span style="background-color:#d4edda; padding: 2px 5px; color: #155724;">**Harness for Annie | Brown, XXS, Annie 3166177234| $27 | [Etsy link](https://www.etsy.com/listing/1873848714/personalized-pet-harness-night?ref=yr_purchases)
 | <span style="background-color:#fff3cd; padding: 2px 5px; color: #856404;">**Nextool Pocket Tool E1**</span> | EDC Multi-tool | ~$25 | [Nextool Store](https://nextoolstore.com/products/pocket-tool-e1) |
 | <span style="background-color:#f8d7da; padding: 2px 5px; color: #721c24;">**Daily Belts "Daily Driver"** | Black Leather Belt | ~$40 | [Daily Belts](https://dailybelts.com/products/daily-driver) |
 | <span style="background-color:#d4edda; padding: 2px 5px; color: #155724;">**Wallet Tracker Card**</span> | Slim Rechargeable | ~$35 | [Amazon](https://www.amazon.com/dp/B0DPXMHCK6/) |
@@ -27,6 +28,7 @@ If you don't buy it, I will, punk.
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+* <span style="background-color:#d4edda; padding: 2px 5px; color: #155724;">**Single Cat Car Seat**</span> | Brown & Small | $70 | [Amazon Link](https://www.amazon.com/Petsfit-Lookout-Booster-Summer-Winter/dp/B0CRDVNS9Z/139-5463886-4620106?pd_rd_w=f4Jcz&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=4119MZWBQQYE20V142X1&pd_rd_wg=89445&pd_rd_r=460888a3-7477-4173-82b7-457d937d56fa&pd_rd_i=B00ZUEPAI8&th=1)
 | <span style="background-color:#f8d7da; padding: 2px 5px; color: #721c24;">**Adidas Samba OG Shoes** | Size 12 | ~$100 | [Link to Adidas](https://www.adidas.com/us/samba-og-shoes/B75806.html?forceSelSize=12) |
 | <span style="background-color:#fff3cd; padding: 2px 5px; color: #856404;">**Old Navy Barn Jacket**</span> | Insulated Canvas, XL | ~$80 | [Link to Old Navy](https://oldnavy.gap.com/browse/product.do?pid=8002880120004&vid=1&pcid=1031099&cid=1031099&nav=meganav%3AMen%3A%3A#pdp-page-content) |
 | <span style="background-color:#f8d7da; padding: 2px 5px; color: #721c24;"><span style="background-color:#fff3cd; padding: 2px 5px; color: #856404;">**Hollister Quarter-Zip**</span> | Boxy Logo, XL, Faded Navy | ~$65 | [Link to Hollister](https://www.hollisterco.com/shop/us/p/boxy-logo-quarter-zip-sweatshirt-61346374?categoryId=166245&faceout=model&seq=03&pagefm=navigation-grid&prodvm=navigation-grid) |
