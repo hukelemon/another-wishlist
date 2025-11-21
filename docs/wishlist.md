@@ -15,34 +15,34 @@ If you don't buy it, I will, punk.
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Harness for Annie**</span> | Brown, XXS, Annie 3166177234| $27 | [Etsy link](https://www.etsy.com/listing/1873848714/personalized-pet-harness-night?ref=yr_purchases) |
-| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Nextool Pocket Tool E1**</span> | EDC Multi-tool | ~$25 | [Nextool Store](https://nextoolstore.com/products/pocket-tool-e1) |
-| <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Daily Belts "Daily Driver"**</span> | Black Leather Belt | ~$40 | [Daily Belts](https://dailybelts.com/products/daily-driver) |
-| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Wallet Tracker Card**</span> | Slim Rechargeable | ~$35 | [Amazon](https://www.amazon.com/dp/B0DPXMHCK6/) |
-| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Cat Water Fountain**</span> | Stainless Steel Tray | ~$40 | [Amazon](https://www.amazon.com/dp/B0BSFB2D37/) |
-| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Rechargeable EDC Flashlight**</span> | WUBEN E7, 1800 Lumen | ~$45 | [Amazon](https://www.amazon.com/WUBEN-E7-Rechargeable-Flashlight-Magnet/dp/B0CHB51JWG?th=1/) |
-| <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Heated Cat House**</span> | Adjustable Heating Pad, Foldable | ~$48 | [Amazon](https://www.amazon.com/dp/B0FDKGPNK1/) |
-| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Milwaukee Utility Knife**</span> | FASTBACK 6-in-1 model | ~$20 | [Amazon](https://www.amazon.com/dp/B09BNMWJH9) |
+| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Nextool Pocket Tool E1**</span> | EDC Multi-tool | $25 | [Nextool Store](https://nextoolstore.com/products/pocket-tool-e1) |
+| <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Daily Belts "Daily Driver"**</span> | Black Leather Belt | $38 | [Daily Belts](https://dailybelts.com/products/daily-driver) |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Wallet Tracker Card**</span> | Slim Rechargeable | $28 | [Amazon](https://www.amazon.com/dp/B0DPXMHCK6/) |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Rechargeable EDC Flashlight**</span> | WUBEN E7, 1800 Lumen | $23 | [Amazon](https://www.amazon.com/WUBEN-E7-Rechargeable-Flashlight-Magnet/dp/B0CHB51JWG?th=1/) |
+| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Milwaukee Utility Knife**</span> | FASTBACK 6-in-1 model | $19 | [Amazon](https://www.amazon.com/dp/B09BNMWJH9) |
+| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Old Navy Barn Jacket**</span> | Insulated Canvas, XL | $47 | [Link to Old Navy](https://oldnavy.gap.com/browse/product.do?pid=8002880120004&vid=1&pcid=1031099&cid=1031099&nav=meganav%3AMen%3A%3A#pdp-page-content) |
+| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Hollister Quarter-Zip**</span> | Boxy Logo, XL, Faded Navy | $27 | [Link to Hollister](https://www.hollisterco.com/shop/us/p/boxy-logo-quarter-zip-sweatshirt-61346374?categoryId=166245&faceout=model&seq=03&pagefm=navigation-grid&prodvm=navigation-grid) |
 
 ---
 
-## $50 - $150
+## $50 - $100
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
-| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Single Cat Car Seat**</span> | Brown & Small | $70 | [Amazon Link](https://www.amazon.com/Petsfit-Lookout-Booster-Summer-Winter/dp/B0CRDVNS9Z/139-5463886-4620106?pd_rd_w=f4Jcz&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=4119MZWBQQYE20V142X1&pd_rd_wg=89445&pd_rd_r=460888a3-7477-4173-82b7-457d937d56fa&pd_rd_i=B00ZUEPAI8&th=1) |
+| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Cat Water Fountain**</span> | Stainless Steel Tray | $80 | [Amazon](https://www.amazon.com/dp/B0BSFB2D37/) |
+| <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Heated Cat House**</span> | Adjustable Heating Pad, Foldable | $59 | [Amazon](https://www.amazon.com/dp/B0FDKGPNK1/) |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Single Cat Car Seat**</span> | Brown & Small | $69 | [Amazon Link](https://www.amazon.com/Petsfit-Lookout-Booster-Summer-Winter/dp/B0CRDVNS9Z/139-5463886-4620106?pd_rd_w=f4Jcz&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=4119MZWBQQYE20V142X1&pd_rd_wg=89445&pd_rd_r=460888a3-7477-4173-82b7-457d937d56fa&pd_rd_i=B00ZUEPAI8&th=1) |
+
+---
+
+## $100+
+
+| Item | Details | Price | Link |
+| :--- | :--- | :--- | :--- |
 | <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Adidas Samba OG Shoes**</span> | Size 12 | ~$100 | [Link to Adidas](https://www.adidas.com/us/samba-og-shoes/B75806.html?forceSelSize=12) |
-| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Old Navy Barn Jacket**</span> | Insulated Canvas, XL | ~$80 | [Link to Old Navy](https://oldnavy.gap.com/browse/product.do?pid=8002880120004&vid=1&pcid=1031099&cid=1031099&nav=meganav%3AMen%3A%3A#pdp-page-content) |
-| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Hollister Quarter-Zip**</span> | Boxy Logo, XL, Faded Navy | ~$65 | [Link to Hollister](https://www.hollisterco.com/shop/us/p/boxy-logo-quarter-zip-sweatshirt-61346374?categoryId=166245&faceout=model&seq=03&pagefm=navigation-grid&prodvm=navigation-grid) |
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Card Holder Wallet**</span> | Indigo #1 or Everglade | $135 | [Bellroy Link](https://bellroy.com/products/apex-slim-sleeve?color=pepper_blue&material=leather_rfid#slide-4) |
-
----
-
-## $150+
-
-| Item | Details | Price | Link |
-| :--- | :--- | :--- | :--- |
-| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Merrell Men's Moab 3**</span> | Size 12, Latte Color | ~$140 | [Link to Merrell](https://www.merrell.com/US/en/moab-3/52481M.html?dwvar_52481M_color=J038203) |
-| <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Merrell Men's Wrapt Sneaker**</span> | Size 12, Dark Ivy Color | ~$120 | [Link to Merrell](https://www.merrell.com/US/en/wrapt-sneaker/60644M.html?dwvar_60644M_color=J032851) |
+| <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Merrell Men's Moab 3**</span> | Size 12, Latte Color | $140 | [Link to Merrell](https://www.merrell.com/US/en/moab-3/52481M.html?dwvar_52481M_color=J038203) |
+| <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Merrell Men's Wrapt Sneaker**</span> | Size 12, Dark Ivy Color | $120 | [Link to Merrell](https://www.merrell.com/US/en/wrapt-sneaker/60644M.html?dwvar_60644M_color=J032851) |
 
 ---
 
