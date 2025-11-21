@@ -1,6 +1,6 @@
 # 🎁 Another Wishlist
 
-If you don't buy it, I will, punk.
+
 
 ### Legend
 * <span style="background-color:#d4edda; padding: 2px 5px; color: #155724;">**Priority 1**</span> (High)
