@@ -1,17 +1,5 @@
 ---
 title: Another Wishlist
-description: A curated list of things I'd like to acquire.
----
-
-# 🎁 Another Wishlist
-
-If you don't buy it, I will. 
-
-***
-
----
-title: Another Wishlist
-description: A curated list of things I'd like to acquire.
 ---
 
 # 🎁 Another Wishlist
