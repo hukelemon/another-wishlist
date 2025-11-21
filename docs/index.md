@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "another-wishlist"
-  text: "My Curated List of Desires"
-  tagline: View the latest items I am saving up for.
+  text: "test1"
+  tagline: test 2
   actions:
     - theme: brand
       text: View The Full Wishlist →
