@@ -1,8 +1,3 @@
----
-title: Another Wishlist
-description: Cool Stuff
----
-
 # 🎁 Another Wishlist
 
 If you don't buy it, I will, punk.
