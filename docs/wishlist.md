@@ -14,6 +14,7 @@ If you don't buy it, I will, punk.
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">** Tire valves**</span> | 32 PSI | $15 | [Amazon Link](https://www.amazon.com/2-4Bar-Pressure-Monitor-Sensor-Indicator/dp/B09LVJYBYT?pd_rd_w=D8VoE&content-id=amzn1.sym.679481c3-2bf4-4843-80c0-ffb319282e84%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&pf_rd_p=679481c3-2bf4-4843-80c0-ffb319282e84&pf_rd_r=JM1GAZF137NEAA43KGJD&pd_rd_wg=UQHag&pd_rd_r=2b020952-b037-48b5-bec4-cd148aa1914d&pd_rd_i=B09LVJYBYT&th=1)
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Harness for Annie**</span> | Brown, XXS, Annie 3166177234| $27 | [Etsy link](https://www.etsy.com/listing/1873848714/personalized-pet-harness-night?ref=yr_purchases) |
 | <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Nextool Pocket Tool E1**</span> | EDC Multi-tool | $25 | [Nextool Store](https://nextoolstore.com/products/pocket-tool-e1) |
 | <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Daily Belts "Daily Driver"**</span> | Black Leather Belt | $38 | [Daily Belts](https://dailybelts.com/products/daily-driver) |
