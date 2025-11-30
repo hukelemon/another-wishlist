@@ -14,6 +14,7 @@ If you don't buy it, I will, punk.
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Craighill Card Holder**</span> | Batten Card Wallet, Navy or Orange | $45 | [Craighill Link](https://craighill.co/products/batten-card-wallet?variant=45412871438573) |
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Tire valves**</span> | 32 PSI | $15 | [Amazon Link](https://www.amazon.com/2-4Bar-Pressure-Monitor-Sensor-Indicator/dp/B09LVJYBYT?pd_rd_w=D8VoE&content-id=amzn1.sym.679481c3-2bf4-4843-80c0-ffb319282e84%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&pf_rd_p=679481c3-2bf4-4843-80c0-ffb319282e84&pf_rd_r=JM1GAZF137NEAA43KGJD&pd_rd_wg=UQHag&pd_rd_r=2b020952-b037-48b5-bec4-cd148aa1914d&pd_rd_i=B09LVJYBYT&th=1)
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Harness for Annie**</span> | Brown, XXS, Annie 3166177234| $27 | [Etsy link](https://www.etsy.com/listing/1873848714/personalized-pet-harness-night?ref=yr_purchases) |
 | <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Nextool Pocket Tool E1**</span> | EDC Multi-tool | $25 | [Nextool Store](https://nextoolstore.com/products/pocket-tool-e1) |
@@ -30,6 +31,8 @@ If you don't buy it, I will, punk.
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Keen Howser III Slide**</span> | Size 12, Java Safari | $75 | [Keen Link](https://www.keenfootwear.com/collections/sale/products/mens-howser-iii-slide-java-safari) |
+| <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Anker Charging Station**</span> | Black | $60 | [Amazon Link](https://a.co/d/hIVOij1) |
 | <span style="background-color:#fff3cd; padding: 4px 8px; border-radius: 6px; color: #856404;">**Cat Water Fountain**</span> | Stainless Steel Tray | $80 | [Amazon](https://www.amazon.com/dp/B0BSFB2D37/) |
 | <span style="background-color:#f8d7da; padding: 4px 8px; border-radius: 6px; color: #721c24;">**Heated Cat House**</span> | Adjustable Heating Pad, Foldable | $59 | [Amazon](https://www.amazon.com/dp/B0FDKGPNK1/) |
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Single Cat Car Seat**</span> | Brown & Small | $69 | [Amazon Link](https://www.amazon.com/Petsfit-Lookout-Booster-Summer-Winter/dp/B0CRDVNS9Z/139-5463886-4620106?pd_rd_w=f4Jcz&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=4119MZWBQQYE20V142X1&pd_rd_wg=89445&pd_rd_r=460888a3-7477-4173-82b7-457d937d56fa&pd_rd_i=B00ZUEPAI8&th=1) |
