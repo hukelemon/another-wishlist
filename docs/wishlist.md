@@ -21,6 +21,14 @@ If you don't buy it, I will, punk.
 
 ---
 
+## Things I want a million of
+
+| Item | Details | Price | Link |
+| :--- | :--- | :--- | :--- |
+| **USB C CABLE** |3.3ft| $20 | |[Amazon Link)[https://www.amazon.com/UGREEN-Premium-Charging-Compatible-Monitors/dp/B0DP9R2LRG?crid=2ARGZCFR2JC38&dib=eyJ2IjoiMSJ9.tn5OO7A0nnody3UrxWRD4-k9f0q6sp7noibo1ZqqLicVD0ywW9mLLAIsUBO5hyx7BsN4AyRGOe71-BR6MmKYsWfQPAV_9Cf2UuiwdtmpK39zXsfGnveCBeEES9Cha13v5QB315PMexv-UAP-05jLKmV6S7VbDjKapxwZnacrimtp-2oW0hwgu3h9BiKbxkoVKK-Izz5GGwy6J1WQIt3gQMKSeeI5pJYSp3fK8wVb4Hg.YS0lgINhhuniM9ixzAx6wiiyLGnRAifTNorgZNtNTgM&dib_tag=se&keywords=ugreen+240W+80gbps&qid=1764837799&sprefix=ugreen+240w+80g,aps,460&sr=8-1&linkCode=sl1&tag=banggearwatch-20&linkId=278ad0bf27069751af9b76b46813f273&language=en_US]
+|Athletic Shorts| XL | $30-60 | [Abercrombie Link](https://www.abercrombie.com/shop/us/p/ypb-motiontek-retro-short-60035335?seq=01)|
+|Milwuake Knife| 6in1 | $20 |[Amazon Link](https://www.amazon.com/Milwaukee-48-22-1505-FASTBACK-UTIILY-6IN1/dp/B09BNMWJH9?crid=3SFMB0ELWYJJB&dib=eyJ2IjoiMSJ9.QYXdbbW3tXm1DC31a6gIwruQyBounZfI-qGUuWoUJ5_ijaCL1VI0zRQinsH1mOqJ9DYFTtkNPDTBttV7VjPJjLaQaam9-8F20d3mboEiqiAykI1qi87XciKQd1xLWWqM7yNVUvscjMqBjx3_nJkUtziIxRFmmMRqoFonN1SeQPNYa3Jvf5X_e9glNPNgLQILth9QjbZn8BjkNrluT5KkA-T5RBaly6yBSX314UaNOaeG5yjZYqAjxpEoWmYzr_FQoHkpzUcJv_zG74971_yXBInfKlJbwhzxxRIN2eMFreU.RUtjit6rB7H3SbkSK02U28QXOOk3pYuBFKk-zSEAWC0&dib_tag=se&keywords=milwaukee+knife&qid=1765136441&sprefix=milwuake+kni%2Caps%2C212&sr=8-1)
+
 ## Under $50
 
 | Item | Details | Price | Link |
