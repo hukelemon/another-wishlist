@@ -14,6 +14,7 @@ If you don't buy it, I will, punk.
 
 | Item | Details | Price | Link |
 | :--- | :--- | :--- | :--- |
+|<span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Zero Knife**</span>| whatevers cheapest | $70 | [Purhcase Link](https://riverymfg.com/products/zero-6061-aluminum-with-lanyard-hole-copy-copy-copy)
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Lite Packing Caddy**</span> | 10L, Color: Clay | $39 | [Bellroy Link](https://bellroy.com/products/lite-packing-caddy?color=clay&material=dura_lite_nylon&size=10l#slide-0)
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**ZQuiet Mouthpiece**</span> | Blue, Size 1 | $40 | [Amazon Link](https://www.amazon.com/dp/B07FDKTMBD?ref=cm_sw_r_cso_cp_apin_dp_13EB033TQ313G69Z4FNR&social_share=cm_sw_r_cso_cp_apin_dp_13EB033TQ313G69Z4FNR&titleSource=true&th=1) |
 | <span style="background-color:#d4edda; padding: 4px 8px; border-radius: 6px; color: #155724;">**Portable Screen Monitor**</span> | 15.6 Inch, 1080P | $40 | [Amazon Link](https://www.amazon.com/dp/B0F5GFM33B?ref=cm_sw_r_cso_cp_mwn_dp_7NZCRMA8KGZARJK1C5HP&social_share=cm_sw_r_cso_cp_mwn_dp_7NZCRMA8KGZARJK1C5HP&th=1) |
